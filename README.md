@@ -53,7 +53,7 @@ Using mod packages
 ![use](https://user-images.githubusercontent.com/84516878/224704159-45e0da97-6e7f-4847-8dd8-bfa293a85705.png)
 
 
-* Weapons
+* [Weapons](https://github.com/MNDIA/Tpsp_Workshop/tree/main/Weapons)
 > Modified a collection of loose textures for the appearance of various character weapons
 For example: Gohe's lance, Tsuchimikado's pistol, and Misaka 10032's rifle
 
