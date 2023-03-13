@@ -29,6 +29,12 @@ Single texture quality up to 2048x2048, if you like high quality, you can instal
 UI:
 Modified the collection of bulk textures for various interface tips
 For example: life bar, hit count table, main menu text, etc.
+Original Supersampling
+![2 Original Supersampling](https://user-images.githubusercontent.com/74826767/221359326-3665375a-b0fc-477c-ba50-ffae09f28a05.png)
+
+
+Using mod packages
+![2 Using mod packages](https://user-images.githubusercontent.com/74826767/221359330-28b91505-714b-4c4a-b557-e7ef7d1f4288.png)
 
 Role:
 Modified a collection of bulk textures for various character appearances
@@ -67,11 +73,4 @@ Note: All texture packs are downloaded using the [zip] format
 but all texture packs use the folder and file [png]
 instead of zip [zip, 7z, rar].
 The [zip] obtained after downloading needs to be unzipped before use.
-
-2Original Supersampling
-![2 Original Supersampling](https://user-images.githubusercontent.com/74826767/221359326-3665375a-b0fc-477c-ba50-ffae09f28a05.png)
-
-
-2Using mod packages
-![2 Using mod packages](https://user-images.githubusercontent.com/74826767/221359330-28b91505-714b-4c4a-b557-e7ef7d1f4288.png)
 
