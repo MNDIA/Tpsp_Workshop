@@ -13,17 +13,17 @@ Hope you have fun!
 > Original style HD textures without any modifications, suitable for everyone
 (The full base pack has too many unused/highly configurable textures, we have made this part of the textures available as DLC)
 (Base pack and DLC files are in the process of being released ~~as they are too big~~)
->> All bulk textures are used based on the [base pack]
+> All bulk textures are used based on the [base pack]
 To use them, you need to use the base pack first.
 Then overwrite them into the [base package] structure
 Because the material hash mapping files are unified in the base package
 
 * DLC:
 > is a 4K remake of the original style textures, separated from the base pack.Single texture quality up to 2048x2048, if you like high quality, you can install
-1. Model pack (using a variety of processing methods to create textures, very high definition)
-2. Map package (the same method as above to create the scene texture, normal combat rarely notice the scene)
-3. Plot package (the same method as above to create the story textures, players who like to play the story can install)
-4. Mobile phone special edition (based on low configuration equipment model textures, clarity will not lose too much, the main focus of smooth combat)
+1. Model pack     (using a variety of processing methods to create textures, very high definition)
+2. Map package    (the same method as above to create the scene texture, normal combat rarely notice the scene)
+3. Plot package   (the same method as above to create the story textures, players who like to play the story can install)
+4. Mobile phone special edition   (based on low configuration equipment model textures, clarity will not lose too much, the main focus of smooth combat)
 
 * UI:
 > Modified the collection of bulk textures for various interface tips
@@ -36,7 +36,7 @@ Using mod packages
 * Role:
 > Modified a collection of bulk textures for various character appearances
 
-3Using mod packages
+Using mod packages
 ![3 Using mod packages](https://user-images.githubusercontent.com/74826767/221359337-f7189b72-c4ef-4d63-8874-3778c8ea09fd.png)
 
 * Drawings:
