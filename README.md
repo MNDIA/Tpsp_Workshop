@@ -13,6 +13,7 @@ Hope you have fun!
 > Original style HD textures without any modifications, suitable for everyone
 (The full base pack has too many unused/highly configurable textures, we have made this part of the textures available as DLC)
 (Base pack and DLC files are in the process of being released ~~as they are too big~~)
+
 > All bulk textures are used based on the [base pack]
 To use them, you need to use the base pack first.
 Then overwrite them into the [base package] structure
@@ -46,11 +47,11 @@ Using mod packages
 ![use](https://user-images.githubusercontent.com/84516878/224704159-45e0da97-6e7f-4847-8dd8-bfa293a85705.png)
 
 
-* Weapons:
+* Weapons
 > Modified a collection of loose textures for the appearance of various character weapons
 For example: Gohe's lance, Tsuchimikado's pistol, and Misaka 10032's rifle
 
-* Native-like:
+* Native-like
 > All textures similar to the original style, you can install if you like the original textures
 
 
