@@ -9,7 +9,7 @@ We also provide the software to install [game], [online software], [textures] wi
 Hope you have fun!
 
 
-* Basic package:
+* [Basic package](https://github.com/MNDIA/Tpsp_Workshop/releases/tag/Basic_Pack)
 > Original style HD textures without any modifications, suitable for everyone
 (The full base pack has too many unused/highly configurable textures, we have made this part of the textures available as DLC)
 (Base pack and DLC files are in the process of being released ~~as they are too big~~)
@@ -18,14 +18,14 @@ To use them, you need to use the base pack first.
 Then overwrite them into the [base package] structure
 Because the material hash mapping files are unified in the base package
 
-* DLC:
+* [DLC](https://github.com/MNDIA/Tpsp_Workshop/releases/tag/DLC)
 > is a 4K remake of the original style textures, separated from the base pack.Single texture quality up to 2048x2048, if you like high quality, you can install
 1. Model pack     (using a variety of processing methods to create textures, very high definition)
 2. Map package    (the same method as above to create the scene texture, normal combat rarely notice the scene)
 3. Plot package   (the same method as above to create the story textures, players who like to play the story can install)
 4. Mobile phone special edition   (based on low configuration equipment model textures, clarity will not lose too much, the main focus of smooth combat)
 
-* UI:
+* [UI](https://github.com/MNDIA/Tpsp_Workshop/tree/main/UI)
 > Modified the collection of bulk textures for various interface tips
 For example: life bar, hit count table, main menu text, etc.
 
@@ -33,13 +33,13 @@ Using mod packages
 ![use (2)](https://user-images.githubusercontent.com/84516878/224704101-77a0b5dd-dc3b-46ea-9767-b43bc3490c64.png)
 
 
-* Role:
+* [Role](https://github.com/MNDIA/Tpsp_Workshop/tree/main/Roles)
 > Modified a collection of bulk textures for various character appearances
 
 Using mod packages
 ![3 Using mod packages](https://user-images.githubusercontent.com/74826767/221359337-f7189b72-c4ef-4d63-8874-3778c8ea09fd.png)
 
-* Drawings:
+* [Drawings](https://github.com/MNDIA/Tpsp_Workshop/tree/main/Drawings)
 > Modified a collection of bulk textures for various stand-ups on the character selection screen
 
 Using mod packages
