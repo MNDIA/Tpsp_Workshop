@@ -11,8 +11,11 @@ Hope you have fun!
 
 * [Basic package](https://github.com/MNDIA/Tpsp_Workshop/releases/tag/Basic_Pack)
 > Original style HD textures without any modifications, suitable for everyone
-(The full base pack has too many unused/highly configurable textures, we have made this part of the textures available as DLC)
 (Base pack and DLC files are in the process of being released ~~as they are too big~~)
+
+1.[UHD_PC_Version](https://github.com/MNDIA/Tpsp_Workshop/releases/download/Basic_Pack/BasicPack.UHD.PC.Version.zip)   (The full base pack has too many unused/highly configurable textures, we have made this part of the textures available as DLC)
+
+2.[HD_Mobile_Version ](https://github.com/MNDIA/Tpsp_Workshop/releases/download/Basic_Pack/BasicPack.HD.Mobile.Version.zip)
 
 > All bulk textures are used based on the [base pack]
 To use them, you need to use the base pack first.
