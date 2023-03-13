@@ -1,6 +1,6 @@
 # ToaruPsp_Workshop
 Here is the texture replacement pack repository for tpsp
-> Includes: base pack, DLC, UI, characters, drawings, weapons, native classes
+> Includes: [Base package](https://github.com/MNDIA/Tpsp_Workshop/releases/tag/Basic_Pack), [DLC](https://github.com/MNDIA/Tpsp_Workshop/releases/tag/DLC), [UI](https://github.com/MNDIA/Tpsp_Workshop/tree/main/UI), [Role](https://github.com/MNDIA/Tpsp_Workshop/tree/main/Roles), [Drawings](https://github.com/MNDIA/Tpsp_Workshop/tree/main/Drawings), [Weapons](https://github.com/MNDIA/Tpsp_Workshop/tree/main/Weapons), [Native-like](https://github.com/MNDIA/Tpsp_Workshop/tree/main/Native-like)
 Feel free to download or upload your favorite texture files
 Each texture pack has the same format, with a screenshot for reference
 
@@ -10,7 +10,7 @@ Then overwrite them into the [Base package](https://github.com/MNDIA/Tpsp_Worksh
 Because the material hash mapping files are unified in the [Base package](https://github.com/MNDIA/Tpsp_Workshop/releases/tag/Basic_Pack)
 
 > If there are players who don't know how to use texture packs
-We also provide the [software](https://github.com/MNDIA/Tpsp_Workshop/tree/main/Software) to install game, online software,textures with one click (Chinese version), There is a [mobile version](https://github.com/MNDIA/Tpsp_Workshop/raw/main/Software/Mobile_Tpsp_Vegeko_4.3.0.apk) and a [PC version]
+We also provide the [software](https://github.com/MNDIA/Tpsp_Workshop/tree/main/Software) to install game, online software,textures with one click (Chinese version), There is a [mobile version](https://github.com/MNDIA/Tpsp_Workshop/raw/main/Software/%5BMobile%5DTpsp%20Vegeko_4.3.0.apk) and a [PC version]
 
 Hope you have fun!
 
