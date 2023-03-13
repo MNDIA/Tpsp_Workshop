@@ -19,9 +19,9 @@ Hope you have fun!
 > Original style HD textures without any modifications, suitable for everyone
 (The complete base package has too many infrequently used/High hardware configuration textures, we have made this part of the textures available as DLC)
 
-1.[UHD_PC_Version](https://github.com/MNDIA/Tpsp_Workshop/releases/download/Basic_Pack/BasicPack.UHD.PC.Version.zip)   (Abridged version based on the complete base package)
+1.[UHD PC Version](https://github.com/MNDIA/Tpsp_Workshop/releases/download/Basic_Pack/BasicPack.UHD.PC.Version.zip)   (Abridged version based on the complete base package)
 
-2.[HD_Mobile_Version ](https://github.com/MNDIA/Tpsp_Workshop/releases/download/Basic_Pack/BasicPack.HD.Mobile.Version.zip)  (Optimized version for low configuration devices based on the PC version)
+2.[HD Mobile Version ](https://github.com/MNDIA/Tpsp_Workshop/releases/download/Basic_Pack/BasicPack.HD.Mobile.Version.zip)  (Optimized version for low configuration devices based on the PC version)
 
 
 
