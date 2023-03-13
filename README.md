@@ -4,29 +4,28 @@ Includes: base pack, DLC, UI, characters, drawings, weapons, native classes
 Feel free to download or upload your favorite texture files
 Each texture pack has the same format, with a screenshot for reference
 
-If there are players who don't know how to use texture packs
+> If there are players who don't know how to use texture packs
 We also provide the software to install [game], [online software], [textures] with one click (Chinese version)
 Hope you have fun!
 
 
-*Basic package:
-Original style HD textures without any modifications, suitable for everyone
+1.Basic package:
+> Original style HD textures without any modifications, suitable for everyone
 (The full base pack has too many unused/highly configurable textures, we have made this part of the textures available as DLC)
 (Base pack and DLC files are in the process of being released ~~as they are too big~~)
-All bulk textures are used based on the [base pack]
+>> All bulk textures are used based on the [base pack]
 To use them, you need to use the base pack first.
 Then overwrite them into the [base package] structure
 Because the material hash mapping files are unified in the base package
 
-*DLC:
-is a 4K remake of the original style textures, separated from the base pack
-Single texture quality up to 2048x2048, if you like high quality, you can install
+2.DLC:
+> is a 4K remake of the original style textures, separated from the base pack.Single texture quality up to 2048x2048, if you like high quality, you can install
 1. Model pack (using a variety of processing methods to create textures, very high definition)
 2. Map package (the same method as above to create the scene texture, normal combat rarely notice the scene)
 3. Plot package (the same method as above to create the story textures, players who like to play the story can install)
 4. Mobile phone special edition (based on low configuration equipment model textures, clarity will not lose too much, the main focus of smooth combat)
 
-*UI:
+3.UI:
 Modified the collection of bulk textures for various interface tips
 For example: life bar, hit count table, main menu text, etc.
 
