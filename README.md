@@ -13,11 +13,13 @@ Hope you have fun!
 > Original style HD textures without any modifications, suitable for everyone
 (Base pack and DLC files are in the process of being released ~~as they are too big~~)
 
-1.[UHD_PC_Version](https://github.com/MNDIA/Tpsp_Workshop/releases/download/Basic_Pack/BasicPack.UHD.PC.Version.zip)   (The full base pack has too many unused/High hardware configuration textures, we have made this part of the textures available as DLC)
+1.[UHD_PC_Version](https://github.com/MNDIA/Tpsp_Workshop/releases/download/Basic_Pack/BasicPack.UHD.PC.Version.zip)   
+> (The complete base package has too many infrequently used/High hardware configuration textures, we have made this part of the textures available as DLC)
 
-2.[HD_Mobile_Version ](https://github.com/MNDIA/Tpsp_Workshop/releases/download/Basic_Pack/BasicPack.HD.Mobile.Version.zip)   (Optimized version for low configuration devices based on the PC version)
+2.[HD_Mobile_Version ](https://github.com/MNDIA/Tpsp_Workshop/releases/download/Basic_Pack/BasicPack.HD.Mobile.Version.zip)  
+> (Optimized version for low configuration devices based on the PC version)
 
-> All bulk textures are used based on the [base pack]
+All bulk textures are used based on the [base pack]
 To use them, you need to use the base pack first.
 Then overwrite them into the [base package] structure
 Because the material hash mapping files are unified in the base package
