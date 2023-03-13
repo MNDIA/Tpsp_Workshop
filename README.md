@@ -33,8 +33,22 @@ For example: life bar, hit count table, main menu text, etc.
 Role:
 Modified a collection of bulk textures for various character appearances
 
+
+3Original Supersampling
+![3 Original Supersampling](https://user-images.githubusercontent.com/74826767/221359333-4f61142a-a34e-484b-beb4-9054c081f18a.png)
+
+
+3Using mod packages
+![3 Using mod packages](https://user-images.githubusercontent.com/74826767/221359337-f7189b72-c4ef-4d63-8874-3778c8ea09fd.png)
+
 Drawings:
 Modified a collection of bulk textures for various stand-ups on the character selection screen
+1Original Supersampling
+![1 Original Supersampling](https://user-images.githubusercontent.com/74826767/221359309-7a73c53f-82b0-4835-91f9-ba482182b16c.png)
+
+
+1Using mod packages
+![1 Using mod packages](https://user-images.githubusercontent.com/74826767/221359317-3127a48f-9ba6-4843-8875-5676ae761af2.png)
 
 Weapons:
 Modified a collection of loose textures for the appearance of various character weapons
@@ -53,15 +67,6 @@ Note: All texture packs are downloaded using the [zip] format
 but all texture packs use the folder and file [png]
 instead of zip [zip, 7z, rar].
 The [zip] obtained after downloading needs to be unzipped before use.
-  
-Preview:  
-1Original Supersampling
-![1 Original Supersampling](https://user-images.githubusercontent.com/74826767/221359309-7a73c53f-82b0-4835-91f9-ba482182b16c.png)
-
-
-1Using mod packages
-![1 Using mod packages](https://user-images.githubusercontent.com/74826767/221359317-3127a48f-9ba6-4843-8875-5676ae761af2.png)
-
 
 2Original Supersampling
 ![2 Original Supersampling](https://user-images.githubusercontent.com/74826767/221359326-3665375a-b0fc-477c-ba50-ffae09f28a05.png)
@@ -70,10 +75,3 @@ Preview:
 2Using mod packages
 ![2 Using mod packages](https://user-images.githubusercontent.com/74826767/221359330-28b91505-714b-4c4a-b557-e7ef7d1f4288.png)
 
-
-3Original Supersampling
-![3 Original Supersampling](https://user-images.githubusercontent.com/74826767/221359333-4f61142a-a34e-484b-beb4-9054c081f18a.png)
-
-
-3Using mod packages
-![3 Using mod packages](https://user-images.githubusercontent.com/74826767/221359337-f7189b72-c4ef-4d63-8874-3778c8ea09fd.png)
