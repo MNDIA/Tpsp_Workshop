@@ -4,17 +4,17 @@ Here is the texture replacement pack repository for tpsp
 Feel free to download or upload your favorite texture files
 Each texture pack has the same format, with a screenshot for reference
 
-All bulk textures are used based on the [base pack]
-To use them, you need to use the base pack first.
-Then overwrite them into the [base package] structure
-Because the material hash mapping files are unified in the base package
+All bulk textures are used based on the [Base package](https://github.com/MNDIA/Tpsp_Workshop/releases/tag/Basic_Pack)
+To use them, you need to use [Base package](https://github.com/MNDIA/Tpsp_Workshop/releases/tag/Basic_Pack) first.
+Then overwrite them into the [Base package](https://github.com/MNDIA/Tpsp_Workshop/releases/tag/Basic_Pack) structure
+Because the material hash mapping files are unified in the [Base package](https://github.com/MNDIA/Tpsp_Workshop/releases/tag/Basic_Pack)
 
 > If there are players who don't know how to use texture packs
 We also provide the software to install [game], [online software], [textures] with one click (Chinese version)
 Hope you have fun!
 
 
-* [Basic package](https://github.com/MNDIA/Tpsp_Workshop/releases/tag/Basic_Pack)
+* [Base package](https://github.com/MNDIA/Tpsp_Workshop/releases/tag/Basic_Pack)
 > Original style HD textures without any modifications, suitable for everyone
 (The complete base package has too many infrequently used/High hardware configuration textures, we have made this part of the textures available as DLC)
 
