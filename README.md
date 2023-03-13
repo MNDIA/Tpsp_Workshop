@@ -57,7 +57,7 @@ Using mod packages
 > Modified a collection of loose textures for the appearance of various character weapons
 For example: Gohe's lance, Tsuchimikado's pistol, and Misaka 10032's rifle
 
-* Native-like
+* [Native-like](https://github.com/MNDIA/Tpsp_Workshop/tree/main/Native-like)
 > All textures similar to the original style, you can install if you like the original textures
 
 
