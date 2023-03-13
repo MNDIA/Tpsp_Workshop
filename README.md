@@ -42,7 +42,7 @@ Modified a collection of bulk textures for various character appearances
 Drawings:
 Modified a collection of bulk textures for various stand-ups on the character selection screen
 
-1Using mod packages
+Using mod packages
 ![1 Using mod packages](https://user-images.githubusercontent.com/74826767/221359317-3127a48f-9ba6-4843-8875-5676ae761af2.png)
 
 Weapons:
