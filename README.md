@@ -10,7 +10,8 @@ Then overwrite them into the [Base package](https://github.com/MNDIA/Tpsp_Worksh
 Because the material hash mapping files are unified in the [Base package](https://github.com/MNDIA/Tpsp_Workshop/releases/tag/Basic_Pack)
 
 > If there are players who don't know how to use texture packs
-We also provide the software to install [game], [online software], [textures] with one click (Chinese version)
+We also provide the [software](https://github.com/MNDIA/Tpsp_Workshop/tree/main/Software) to install game, online software,textures with one click (Chinese version), There is a [mobile version](https://github.com/MNDIA/Tpsp_Workshop/blob/main/Software/%5BMobile%5DTpsp%20Vegeko_4.3.0.apk) and a PC version
+
 Hope you have fun!
 
 
