@@ -12,7 +12,7 @@ Hope you have fun!
 Basic package:
 Original style HD textures without any modifications, suitable for everyone
 (The full base pack has too many unused/highly configurable textures, we have made this part of the textures available as DLC)
-(Base pack and DLC files are in the process of being released as they are too big)
+(Base pack and DLC files are in the process of being released ~~as they are too big~~)
 All bulk textures are used based on the [base pack]
 To use them, you need to use the base pack first.
 Then overwrite them into the [base package] structure
