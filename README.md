@@ -4,6 +4,11 @@ Here is the texture replacement pack repository for tpsp
 Feel free to download or upload your favorite texture files
 Each texture pack has the same format, with a screenshot for reference
 
+All bulk textures are used based on the [base pack]
+To use them, you need to use the base pack first.
+Then overwrite them into the [base package] structure
+Because the material hash mapping files are unified in the base package
+
 > If there are players who don't know how to use texture packs
 We also provide the software to install [game], [online software], [textures] with one click (Chinese version)
 Hope you have fun!
@@ -11,18 +16,13 @@ Hope you have fun!
 
 * [Basic package](https://github.com/MNDIA/Tpsp_Workshop/releases/tag/Basic_Pack)
 > Original style HD textures without any modifications, suitable for everyone
-(Base pack and DLC files are in the process of being released ~~as they are too big~~)
+(The complete base package has too many infrequently used/High hardware configuration textures, we have made this part of the textures available as DLC)
 
-1.[UHD_PC_Version](https://github.com/MNDIA/Tpsp_Workshop/releases/download/Basic_Pack/BasicPack.UHD.PC.Version.zip)   
-> (The complete base package has too many infrequently used/High hardware configuration textures, we have made this part of the textures available as DLC)
+1.[UHD_PC_Version](https://github.com/MNDIA/Tpsp_Workshop/releases/download/Basic_Pack/BasicPack.UHD.PC.Version.zip)   (Abridged version based on the complete base package)
 
-2.[HD_Mobile_Version ](https://github.com/MNDIA/Tpsp_Workshop/releases/download/Basic_Pack/BasicPack.HD.Mobile.Version.zip)  
-> (Optimized version for low configuration devices based on the PC version)
+2.[HD_Mobile_Version ](https://github.com/MNDIA/Tpsp_Workshop/releases/download/Basic_Pack/BasicPack.HD.Mobile.Version.zip)  (Optimized version for low configuration devices based on the PC version)
 
-All bulk textures are used based on the [base pack]
-To use them, you need to use the base pack first.
-Then overwrite them into the [base package] structure
-Because the material hash mapping files are unified in the base package
+
 
 * [DLC](https://github.com/MNDIA/Tpsp_Workshop/releases/tag/DLC)
 > is a 4K remake of the original style textures, separated from the base pack.Single texture quality up to 2048x2048, if you like high quality, you can install
