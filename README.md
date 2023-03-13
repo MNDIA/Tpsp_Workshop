@@ -21,10 +21,10 @@ Because the material hash mapping files are unified in the base package
 
 * [DLC](https://github.com/MNDIA/Tpsp_Workshop/releases/tag/DLC)
 > is a 4K remake of the original style textures, separated from the base pack.Single texture quality up to 2048x2048, if you like high quality, you can install
-1. Model pack     (using a variety of processing methods to create textures, very high definition)
-2. Map package    (the same method as above to create the scene texture, normal combat rarely notice the scene)
-3. Plot package   (the same method as above to create the story textures, players who like to play the story can install)
-4. Mobile phone special edition   (based on low configuration equipment model textures, clarity will not lose too much, the main focus of smooth combat)
+1. [Model pack](https://github.com/MNDIA/Tpsp_Workshop/releases/download/DLC/DLC1.-4K_AI_remastered_version-.by_vegeko.zip)     (using a variety of processing methods to create textures, very high definition)
+2. [Map package](https://github.com/MNDIA/Tpsp_Workshop/releases/download/DLC/DLC2.-Map_AI_Remastered-.by_vegeko.zip)    (the same method as above to create the scene texture, normal combat rarely notice the scene)
+3. [Story package](https://github.com/MNDIA/Tpsp_Workshop/releases/download/DLC/DLC3.-Story_Scene_AI_Remastered-.by_vegeko.zip)   (the same method as above to create the story textures, players who like to play the story can install)
+4. [Mobile phone special edition](https://github.com/MNDIA/Tpsp_Workshop/releases/download/DLC/DLC4.Android.Special.Edition.by.vegeko.zip)   (based on low configuration equipment model textures, clarity will not lose too much, the main focus of smooth combat)
 
 * [UI](https://github.com/MNDIA/Tpsp_Workshop/tree/main/UI)
 > Modified the collection of bulk textures for various interface tips
