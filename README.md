@@ -1,5 +1,5 @@
 # Tpsp_Workshop
-Material package inventory  
+textures package inventory  
 
 Description: TPSP assets for the PPSSPP texture replacement material package. Quality up to 2048x2048, includes 4K remakes of the original textures and other skins  
 <br/>
